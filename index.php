@@ -4,7 +4,7 @@
 <head>
     <title>吃掉王爱端</title>
     <meta itemprop="name" content="吃掉王爱端" />
-    <meta itemprop="description" content="4k阴游" />
+    <meta itemprop="description" content="QQ1596541139" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
@@ -40,14 +40,14 @@
         <div class="welcome-bg FILL"></div>
         <div class="FILL BOX-M" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;">
             <div style="margin:0 8% 0 9%;">
-                <div style="font-size:2.6em; color:#FEF002;">4k音游</div><br />
+                <div style="font-size:2.6em; color:#FEF002;">QQ1596541139</div><br />
                 <div id="desc" style="display: block;font-size:2.2em; color:#fff; line-height:1.5em;">
                     从最底下的开始吃<br />
                     看你能吃多少王爱端<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
-                    <a class="btn btn-primary btn-lg" onclick="readyBtn()">开始游戏</a>
+                    <a class="btn btn-primary btn-lg" onclick="readyBtn()">开始吃王爱端</a>
                     <br/><br/>
 
                     <div class="dropdown">
@@ -73,7 +73,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小鹿乃">
+                        <input type="text" id="title" class="form-control" placeholder="吃掉王爱端">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
